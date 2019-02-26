@@ -1,2 +1,2 @@
-# Learning-R
-Learning R 
+# Learning Python
+Learning Python Notes
